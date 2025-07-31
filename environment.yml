@@ -13,3 +13,5 @@ dependencies:
   - pip:
     - ollama
     - beautifulsoup4
+    - openai
+    - anthropic
