@@ -16,3 +16,7 @@ dependencies:
     - openai
     - anthropic
     - gradio
+    - pydub
+    - sounddevice
+    - webrtcvad
+    - scipy
